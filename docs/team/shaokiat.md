@@ -31,11 +31,13 @@ Given below are my contributions to the project.
   * Updated the User Guide according to Peers and Tutors comments
   * Updated the project's logfile to gradpad.log
   * Added introduction section to the user guide.
+  * Improve test coverage of GradPad. [\#200](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/200)
   
 * **Project management**:
   * Recorded comments by Peers and Tutors with regards to GradPad especially on User Guide and Developer Guide.
   * Addressed issues on User Guide from mock PE.
   * Reviews and comments to team mates PR. [Example: \#111](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/111)
+  * Managed release for v1.4 on GitHub for submission.
 
 * **Enhancements to existing features**:
   * Refactored the `Delete` feature and command to take in module code as parameters instead of index. [\#120](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/120)
@@ -59,7 +61,9 @@ Given below are my contributions to the project.
     * Refactored the `Model` component class diagram and description. [\#55](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/55)
     * Added implementation details of the `delete` feature. [\#55](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/55)
     * Refactored the `Undo/Redo` proposed implementation. [\#75](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/75)
-    * Added use cases for GradPad in the documentation. [\#75](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/75)
+    * Added use cases for GradPad in the documentation. [\#75](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/75) & [\#220](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/220)
+    * Added the `Appendix C: Effort` section in the documentation. [\#210](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/210)
+    * Updated `Manual Testing` section in the documentation. [\#194](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/194)
 
 * **Review/mentoring contributions**:
   * PRs reviewed (with non-trivial review comments): [\#58](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/58), 
